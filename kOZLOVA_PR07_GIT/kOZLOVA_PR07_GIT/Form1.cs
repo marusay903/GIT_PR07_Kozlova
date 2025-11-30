@@ -16,5 +16,11 @@ namespace kOZLOVA_PR07_GIT
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 adminForm = new Form2();
+            adminForm.Show();
+        }
     }
 }
