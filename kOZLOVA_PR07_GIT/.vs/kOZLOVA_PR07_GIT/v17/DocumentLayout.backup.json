@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u041C\u0414\u041A 02.02\\PR_07_Kozlova\\kOZLOVA_PR07_GIT\\",
+  "WorkspaceRootPath": "C:\\\u041C\u0414\u041A 02.02\\PR07_GIT\\kOZLOVA_PR07_GIT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7049429-87D0-44AD-AD02-59B18F219418}|kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT.csproj|c:\\\u043C\u0434\u043A 02.02\\pr_07_kozlova\\kozlova_pr07_git\\kozlova_pr07_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C7049429-87D0-44AD-AD02-59B18F219418}|kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT.csproj|c:\\\u043C\u0434\u043A 02.02\\pr07_git\\kozlova_pr07_git\\kozlova_pr07_git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7049429-87D0-44AD-AD02-59B18F219418}|kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT.csproj|solutionrelative:kozlova_pr07_git\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7049429-87D0-44AD-AD02-59B18F219418}|kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT.csproj|c:\\\u043C\u0434\u043A 02.02\\pr07_git\\kozlova_pr07_git\\kozlova_pr07_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C7049429-87D0-44AD-AD02-59B18F219418}|kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT.csproj|solutionrelative:kozlova_pr07_git\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\\u041C\u0414\u041A 02.02\\PR07_GIT\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form2.cs",
+              "RelativeDocumentMoniker": "kOZLOVA_PR07_GIT\\Form2.cs",
+              "ToolTip": "C:\\\u041C\u0414\u041A 02.02\\PR07_GIT\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form2.cs [Design]",
+              "RelativeToolTip": "kOZLOVA_PR07_GIT\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:20:47.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\\u041C\u0414\u041A 02.02\\PR_07_Kozlova\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form1.cs",
+              "DocumentMoniker": "C:\\\u041C\u0414\u041A 02.02\\PR07_GIT\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form1.cs",
               "RelativeDocumentMoniker": "kOZLOVA_PR07_GIT\\Form1.cs",
-              "ToolTip": "C:\\\u041C\u0414\u041A 02.02\\PR_07_Kozlova\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form1.cs [Design]",
+              "ToolTip": "C:\\\u041C\u0414\u041A 02.02\\PR07_GIT\\kOZLOVA_PR07_GIT\\kOZLOVA_PR07_GIT\\Form1.cs [Design]",
               "RelativeToolTip": "kOZLOVA_PR07_GIT\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T08:57:57.58Z",
