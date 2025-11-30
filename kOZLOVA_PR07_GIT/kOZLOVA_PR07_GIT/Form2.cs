@@ -15,6 +15,12 @@ namespace kOZLOVA_PR07_GIT
         public Form2()
         {
             InitializeComponent();
+            label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
         }
     }
 }
