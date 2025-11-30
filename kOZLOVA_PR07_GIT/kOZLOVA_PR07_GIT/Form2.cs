@@ -22,5 +22,12 @@ namespace kOZLOVA_PR07_GIT
         {
             label1.Text = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string fio = "Козлова Мария Дмитриевна";
+            MessageBox.Show($"Студентка группы ИС-23А:{fio}","Информация", MessageBoxButtons.OK,MessageBoxIcon.Information);
+
+        }
     }
 }
